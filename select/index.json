@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "I Really Want To Stay At Your House (Acoustic)",
+  "base_artist": "Lunity",
+  "createdAt": "2026-03-18T22:08:49.910041Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Really Want to Stay at Your House (Acoustic Cover)",
+      "artist": "saewool",
+      "has_synced": true,
+      "path": "select/01_I_Really_Want_to_Stay_at_Your_House_(Acoustic_Cover)_saewool.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Really Want To Stay At Your House - Acoustic",
+      "artist": "Lunity",
+      "has_synced": true,
+      "path": "select/02_I_Really_Want_To_Stay_At_Your_House_-_Acoustic_Lunity.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Really Want To Stay At Your House (Acoustic)",
+      "artist": "Lunity",
+      "has_synced": true,
+      "path": "select/03_I_Really_Want_To_Stay_At_Your_House_(Acoustic)_Lunity.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lunity - I Really Want To Stay At Your House - Acoustic",
+      "artist": "Lunity",
+      "has_synced": true,
+      "path": "select/04_Lunity_-_I_Really_Want_To_Stay_At_Your_House_-_Acoustic_Lunity.lrc"
+    }
+  ]
+}
